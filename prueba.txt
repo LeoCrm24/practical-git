@@ -1,1 +1,4 @@
 renglo agregado 5
+nuevo texto agregado en el archivo de prueba.txt
+add new info
+add new info again
